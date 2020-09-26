@@ -1,0 +1,1 @@
+{"version":3,"sources":["Wrapper.jsx"],"names":["Wrapper","props","children"],"mappings":"iHAAA,OAKeA,UALf,SAAiBC,GAEf,OADqBA,EAAbC","file":"static/js/Wrapper.f0531f42.chunk.js","sourcesContent":["function Wrapper(props) {\n  const { children } = props;\n  return children;\n}\n\nexport default Wrapper;\n"],"sourceRoot":""}

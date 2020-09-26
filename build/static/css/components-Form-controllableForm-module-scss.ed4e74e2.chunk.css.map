@@ -1,0 +1,1 @@
+{"version":3,"sources":["controllableForm.module.scss"],"names":[],"mappings":"AAAA,gCACE,WAAY,CAIZ,UAAW,CACX,WAAY,CACZ,wBAA2B,CAL3B,oCACE,oBAAqB","file":"components-Form-controllableForm-module-scss.ed4e74e2.chunk.css","sourcesContent":[".button {\n  margin: 2rem;\n  &_red {\n    background-color: red;\n  }\n  width: 1rem;\n  height: 1rem;\n  background-color: lightblue;\n}\n"]}

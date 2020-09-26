@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/LoadingConsumer/Context.jsx"],"names":["AppContext","React","createContext"],"mappings":"kHAAA,kBAEMA,EAFN,OAEmBC,EAAMC,gBAEVF","file":"static/js/components-LoadingConsumer-Context.67f48665.chunk.js","sourcesContent":["import React from \"react\";\n\nconst AppContext = React.createContext();\n\nexport default AppContext;\n"],"sourceRoot":""}

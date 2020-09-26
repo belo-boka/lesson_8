@@ -1,0 +1,2 @@
+(this["webpackJsonp4-th_lesson"]=this["webpackJsonp4-th_lesson"]||[]).push([[3],{36:function(s,n,t){"use strict";t.r(n),n.default=function(s){return s.children}}}]);
+//# sourceMappingURL=Wrapper.f0531f42.chunk.js.map

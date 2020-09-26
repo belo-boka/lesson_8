@@ -1,0 +1,2 @@
+(this["webpackJsonp4-th_lesson"]=this["webpackJsonp4-th_lesson"]||[]).push([[27],{63:function(t,_,n){t.exports={button:"app_button__ltI2c",button_red:"app_button_red__3qkmS",hidden:"app_hidden__2TXB1"}}}]);
+//# sourceMappingURL=main-app-module-scss.25a876cc.chunk.js.map

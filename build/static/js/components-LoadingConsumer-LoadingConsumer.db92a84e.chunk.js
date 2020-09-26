@@ -1,0 +1,2 @@
+(this["webpackJsonp4-th_lesson"]=this["webpackJsonp4-th_lesson"]||[]).push([[14,13],{29:function(t,e,n){"use strict";n.r(e);var a=n(0),r=n.n(a).a.createContext();e.default=r},41:function(t,e,n){"use strict";n.r(e);var a=n(0),r=n.n(a),u=n(29);e.default=function(t){return function(e){return r.a.createElement(u.default.Consumer,null,(function(e){var n=e.data;return r.a.createElement(t,{data:n})}))}}}}]);
+//# sourceMappingURL=components-LoadingConsumer-LoadingConsumer.db92a84e.chunk.js.map

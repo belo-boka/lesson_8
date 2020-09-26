@@ -1,0 +1,2 @@
+(this["webpackJsonp4-th_lesson"]=this["webpackJsonp4-th_lesson"]||[]).push([[22],{61:function(t,e,n){t.exports={button:"anotherPage_button__EHRDr",button_red:"anotherPage_button_red__JZi51",hidden:"anotherPage_hidden__jWVsL"}}}]);
+//# sourceMappingURL=anotherPage-anotherPage-module-scss.79e8a721.chunk.js.map

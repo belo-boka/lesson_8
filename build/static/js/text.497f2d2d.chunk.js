@@ -1,0 +1,2 @@
+(this["webpackJsonp4-th_lesson"]=this["webpackJsonp4-th_lesson"]||[]).push([[19],{45:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a);function s(e){var t=e.text;return l.a.createElement(l.a.Fragment,null,l.a.createElement("p",null,t)||l.a.createElement("h6",null,t))}s.defaultProps={text:"defaultText"},t.default=l.a.memo(s)}}]);
+//# sourceMappingURL=text.497f2d2d.chunk.js.map
