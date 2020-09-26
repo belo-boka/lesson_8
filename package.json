@@ -1,7 +1,7 @@
 {
   "name": "4-th_lesson",
   "version": "0.1.0",
-  "homepage": "./build",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
